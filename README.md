@@ -21,7 +21,7 @@ pip install colorama time requests pystyle
 
 Utilisation:
 
-Exécutez le fichier cry_doxing.py à l'aide de Python :
+Exécutez le fichier crydoxing.py à l'aide de Python :
 
 python crydoxing.py
 
