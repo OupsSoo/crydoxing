@@ -17,13 +17,12 @@ Clonez ce dépôt ou téléchargez les fichiers du projet.
 
 Assurez-vous d'avoir les modules Python requis installés en exécutant la commande suivante :
 
-css
-Copy code
 pip install colorama time requests pystyle
-Utilisation
+
+Utilisation:
+
 Exécutez le fichier cry_doxing.py à l'aide de Python :
 
-Copy code
 python crydoxing.py
 
 Saissisez le nom de la personne a rechercher vous pouvez également utilisé un ID discord pour effectué la recherche.
