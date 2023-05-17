@@ -21,6 +21,8 @@ pip install colorama time requests pystyle
 
 Utilisation:
 
+Vous devrez créer un dossier "dbs" à la racine du projet et y ajouter vos fichiers .sql.
+
 Exécutez le fichier crydoxing.py à l'aide de Python :
 
 python crydoxing.py
