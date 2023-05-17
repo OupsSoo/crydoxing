@@ -1,4 +1,4 @@
-Cry Doxing est un programme Python conçu pour rechercher des informations dans des bases de données FiveM.
+Cry Doxing est un programme Python conçu pour rechercher des informations dans des bases de données.
 
 Fonctionnalités:
 -Recherche d'informations dans des bases de données FiveM.
@@ -28,6 +28,8 @@ python crydoxing.py
 Saissisez le nom de la personne a rechercher vous pouvez également utilisé un ID discord pour effectué la recherche.
 
 Les résultats de la recherche seront affichés à l'écran et enregistrés dans un fichier texte.
+
+Cry Doxing offre la possibilité d'ajouter d'autres fichiers .sql de bases de données dans le répertoire "dbs". Cela permet d'élargir la portée des recherches et de travailler avec différents jeux de données pour obtenir des résultats plus complets.
 
 Avertissement
 Ce programme doit être utilisé à des fins légales et éthiques. L'utilisation abusive de ce programme pour violer la vie privée d'autrui ou pour toute activité illégale est strictement interdite. L'auteur du programme n'assume aucune responsabilité pour toute mauvaise utilisation ou conséquence découlant de l'utilisation de ce programme.
