@@ -1,0 +1,8 @@
+colorama
+time
+requests 
+pystyle
+os
+subprocess
+requests
+os.path
