@@ -9,11 +9,7 @@ Fonctionnalités:
 -Sauvegarde des résultats dans un fichier texte.
 
 
-
-
-Prérequis
-
-
+Prérequis:
 
 -Python 3.x installé sur votre système.
 -Les modules Python suivants doivent être installés :
@@ -28,6 +24,8 @@ Clonez ce dépôt ou téléchargez les fichiers du projet.
 Assurez-vous d'avoir les modules Python requis installés en exécutant la commande suivante :
 
 pip install colorama time requests pystyle
+
+
 
 Utilisation:
 
