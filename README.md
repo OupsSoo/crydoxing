@@ -1,10 +1,16 @@
 Cry Doxing est un programme Python conçu pour rechercher des informations dans des bases de données.
 
 Fonctionnalités:
+
 -Recherche d'informations dans des bases de données FiveM.
+
 -Affichage des résultats de la recherche.
+
 -Sauvegarde des résultats dans un fichier texte.
+
+
 -Prérequis
+
 -Python 3.x installé sur votre système.
 -Les modules Python suivants doivent être installés :
 -colorama
