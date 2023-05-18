@@ -75,7 +75,7 @@ def banner():
     \t\t 
     \t\t                            by Spaso
     \t\t                  
-    \t\t               https://doxbin.com/user/OupsSpaso                                 
+    \t\t               https://doxbin.com/user/spaso1337                                 
     \t\t
     \t\t                       http://spaso.site/               \n\n\n\n""")
 
