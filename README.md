@@ -16,11 +16,9 @@ Prérequis:
 
 -Les modules Python suivants doivent être installés :
 
--colorama
--time
--requests
--pystyle
--Installation
+colorama, time, requests, pystyle.
+
+Installation:
 
 Clonez ce dépôt ou téléchargez les fichiers du projet.
 
