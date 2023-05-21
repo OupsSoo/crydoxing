@@ -1,5 +1,5 @@
 <h1 align="center">
-  Crazy Doxing V1.0
+  CryDoxing V1.0
 </h1>
 
 CryDoxing is a Python program designed to search for information about users in databases. It utilizes a command-line interface (CLI) to facilitate user interaction.
@@ -32,7 +32,7 @@ CryDoxing is a tool created with the goal of promoting ethical behavior online. 
 
 ## <a id="setup"></a> 📁 〢 Setting up
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Download [CrazyDoxing Files](https://github.com/spaso1337/crydoxing/archive/refs/heads/main.zip)
+2. Download [CryDoxing Files](https://github.com/spaso1337/crydoxing/archive/refs/heads/main.zip)
 3. Execute "install.bat" file.
 4. Create a folder named "dbs" inside the main directory of CryDoxing.
 5. Place the .sql files you want to use inside the "dbs" folder.
@@ -54,7 +54,7 @@ CryDoxing is a tool created with the goal of promoting ethical behavior online. 
 
 
 ### Authors
-- [Spaso1337](https://github.com/Hawkishx)
+- [Spaso1337](https://github.com/spaso1337)
 
 
 
