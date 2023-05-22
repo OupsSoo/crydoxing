@@ -54,7 +54,7 @@ CryDoxing is a tool created with the goal of promoting ethical behavior online. 
 
 
 ### Authors
-- [Spaso1337](https://github.com/spaso1337)
+- [Soo Web](https://github.com/OupsSoo)
 
 
 
