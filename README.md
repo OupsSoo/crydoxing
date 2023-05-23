@@ -50,10 +50,10 @@ CryDoxing is a tool created with the goal of promoting ethical behavior online. 
 - [x] Educational purpose only
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
-- [x] We are NOT responsible of anything you do with our software (if its illegal)
+- [x] i am NOT responsible of anything you do with our software (if its illegal)
 
 
-### Authors
+### Author
 - [Soo Web](https://github.com/OupsSoo)
 
 
