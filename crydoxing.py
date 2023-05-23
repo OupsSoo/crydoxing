@@ -27,9 +27,6 @@ intro = """
 Anime.Fade(Center.Center(intro), Colors.purple_to_red, Colorate.Vertical, interval=0.035, enter=True)
 
 
-
-import os
-
 pseudo = input("Pseudo de la victime: ")
 output_file = "crydoxing.txt"
 no_results = True
